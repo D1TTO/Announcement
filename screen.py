@@ -11,7 +11,7 @@ import pygame
 
 def main():
 
-    path = '/home/pi/ShareFile/ClockAnnounce'
+    path = 'enter path here'
     name = ''
     for filename in os.listdir(path):
        name = filename
